@@ -83,6 +83,8 @@ function idInvalidCardCompanies(invalids) {
 
 console.log(idInvalidCardCompanies(batch));
 
+// just a random change
+
 
 
 
